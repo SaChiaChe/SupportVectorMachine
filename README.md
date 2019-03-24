@@ -34,7 +34,7 @@ Run linear SVM on the data set for the binary classification problem "2" versus 
 
 ### PolynomialSVM.py
 
-Run polynomial SVM with the kernel K(x<sub>n</sub>, x<sub>m</sub>) = (1 + x<sub>n</sub><sup>T</sup>x<sub>m</sub>)<sup>2</sup> on the data set for the binary classification problem "4" versus "not 4". Then plot E<sub>in</sub>sub> versus log<sub>10</sub>C.
+Run polynomial SVM with the kernel K(x<sub>n</sub>, x<sub>m</sub>) = (1 + x<sub>n</sub><sup>T</sup>x<sub>m</sub>)<sup>2</sup> on the data set for the binary classification problem "4" versus "not 4". Then plot E<sub>in</sub> versus log<sub>10</sub>C.
 
 ### GaussianSVM.py
 
