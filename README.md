@@ -30,15 +30,15 @@ digit intensity symmetry
 
 ### LinearSVM.py
 
-Run linear SVM on the data set for the binary classification problem "2" versus "not 2". Then plot $||w||$ versus $log_{10}C$
+Run linear SVM on the data set for the binary classification problem "2" versus "not 2". Then plot ||w|| versus log<sub>10</sub>C
 
 ### PolynomialSVM.py
 
-Run polynomial SVM with the kernel K(x_n, x_m) = (1 + x_n^Tx_m)^2 on the data set for the binary classification problem "4" versus "not 4". Then plot E_in versus $log_{10}C$
+Run polynomial SVM with the kernel K(x<sub>n</sub>, x<sub>m</sub>) = (1 + x<sub>n</sub><sup>T</sup>x<sub>m</sub>)<sup>2</sup> on the data set for the binary classification problem "4" versus "not 4". Then plot E<sub>in</sub>sub> versus log<sub>10</sub>C.
 
 ### GaussianSVM.py
 
-Run Gaussian SVM with &#947; = 80 on the data set for the binary classification problem "0" versus "not 0". Then plot the margin versus $log_{10}C$
+Run Gaussian SVM with &#947; = 80 on the data set for the binary classification problem "0" versus "not 0". Then plot the margin versus log<sub>10</sub>C.
 
 ### GaussianSVMwithValidation.py
 
